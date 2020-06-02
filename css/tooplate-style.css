@@ -64,7 +64,7 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   a:hover, a:active, a:focus {
-    color: #29ca8e;
+    color: #27aca2;
     outline: none;
   }
 
@@ -127,7 +127,7 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   .online-form button {
-    background: #29ca8e;
+    background: #27aca2;
     border: 0;
     color: #ffffff;
     position: absolute;
@@ -147,7 +147,7 @@ http://www.tooplate.com/view/2106-soft-landing
   -----------------------------------------*/
 
   .section-btn {
-    background: #29ca8e;
+    background: #27aca2;
     border: 0;
     border-radius: 50px;
     color: #ffffff;
@@ -250,7 +250,7 @@ http://www.tooplate.com/view/2106-soft-landing
 
   .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #29ca8e;
+    color: #27aca2;
   }
 
   .custom-navbar .navbar-nav > li > a:hover,
@@ -260,7 +260,7 @@ http://www.tooplate.com/view/2106-soft-landing
 
   .custom-navbar .nav li.active > a {
     background-color: transparent;
-    color: #29ca8e;
+    color: #27aca2;
   }
 
   .custom-navbar .navbar-toggle {
@@ -273,7 +273,7 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   .custom-navbar .navbar-toggle .icon-bar {
-    background: #29ca8e;
+    background: #27aca2;
     border-color: transparent;
   }
 
@@ -311,7 +311,7 @@ http://www.tooplate.com/view/2106-soft-landing
   -----------------------------------------*/
 
   #home {
-    background: url('../images/home-bg.jpg') no-repeat center center;
+    background: url('https://images.pexels.com/photos/1720186/pexels-photo-1720186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center;
     background-size: cover;
     vertical-align: middle;
     display: -webkit-box;
@@ -379,13 +379,13 @@ http://www.tooplate.com/view/2106-soft-landing
   #feature .nav-tabs>li.active>a:hover {
     background: transparent;
     color: #202020;
-    border-bottom: 3px solid #29ca8e;
+    border-bottom: 3px solid #27aca2;
   }
 
   #feature .nav>li>a:focus, 
   #feature .nav>li>a:hover {
     background: transparent;
-    border-bottom: 3px solid #29ca8e;
+    border-bottom: 3px solid #27aca2;
     color: #202020;
   }
 
@@ -494,7 +494,7 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   .testimonial-image {
-    background: url('../images/testimonial-image.jpg') no-repeat center center;
+    background: url('https://images.pexels.com/photos/442574/pexels-photo-442574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center;
     background-size: cover;
     width: 100%;
     height: 65vh;
@@ -633,7 +633,7 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   #contact-form input[type='submit']:hover {
-    background: #29ca8e;
+    background: #27aca2;
     color: #ffffff;
   }
   
